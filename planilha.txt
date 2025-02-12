@@ -1,0 +1,4 @@
+https://docs.google.com/spreadsheets/d/1oD-ot0dDmMKIhqZ6n24zihyjiKosNmMucYjnqvYtu0k/edit?usp=sharing
+
+npm i 
+npm run dev 

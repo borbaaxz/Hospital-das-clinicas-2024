@@ -1,18 +1,9 @@
-Aqui está a versão final sem a seção de como iniciar o projeto:  
 
----
 
 # 🏥 Instituto da Criança e do Adolescente - Plataforma Completa de Agendamento e Entretenimento  
 
 Este projeto foi desenvolvido em 2024 como parte de uma parceria acadêmica entre a **FIAP** e o **Hospital das Clínicas - FMUSP**, com foco no **Instituto da Criança e do Adolescente**. Criado utilizando **Vite**, o sistema oferece uma plataforma **completa e acessível**, permitindo o **agendamento de exames médicos**, além de diversas funcionalidades para melhorar a experiência dos pacientes.  
-
-## 🚀 Tecnologias Utilizadas  
-- **Vite** – Ambiente de desenvolvimento rápido e otimizado  
-- **React** – Construção da interface dinâmica e modular  
-- **Tailwind CSS** – Estilização moderna e responsiva  
-- **MySQL** – Banco de dados para gerenciamento eficiente de informações  
-- **Node.js & Express** – Backend robusto para comunicação entre serviços  
-- **Google Sheets API** – Integração com Google Docs para armazenamento de agendamentos  
+ 
 
 ## 📌 Funcionalidades  
 ✔️ **📅 Agendamento Online** – Interface intuitiva para marcação de exames e consultas, com todos os agendamentos sendo **registrados automaticamente em uma planilha do Google Docs** para facilitar o controle.  
